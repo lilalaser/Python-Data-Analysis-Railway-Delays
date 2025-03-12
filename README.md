@@ -38,6 +38,9 @@ The dataset contains the following columns:
 - Key Findings and Future Research
 
 3.3 Key Findings
+- Holidays overall had a minor effect on railway delays.
+- Different weather conditions had a much stronger effect on railway delays.
+
 
 4. Usage/Installation
    
