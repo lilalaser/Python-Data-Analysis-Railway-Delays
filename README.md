@@ -49,7 +49,7 @@ Columns:
 
 ## 4. Usage / Installation
 
-1. Clone the repository  
+1. Clone the repository: https://github.com/lilalaser/Python-Data-Analysis-Railway-Delays
 2. Install required Python libraries (pandas, numpy)
 3. Run the Jupyter Notebook to reproduce the analysis
 
